@@ -25,7 +25,7 @@ Y eso sería todo, luego automaticamente aparecerá nuestro contribuidor en el r
 
 # All-contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Contributors ✨
 
@@ -37,6 +37,7 @@ Gracias a estas increíbles personas, que lo hacen posible ([emoji key](https://
 <table>
   <tr>
     <td align="center"><a href="https://github.com/TesterJuancxh"><img src="https://avatars2.githubusercontent.com/u/70418277?v=4" width="100px;" alt=""/><br /><sub><b>TesterJuancxh</b></sub></a><br /><a href="https://github.com/Juancxh/All-contributors/commits?author=TesterJuancxh" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jimmy-erick-loloy-laurencio-4b12971a4/"><img src="https://avatars0.githubusercontent.com/u/49881423?v=4" width="100px;" alt=""/><br /><sub><b>Jimmy Erick Loloy Laurencio</b></sub></a><br /><a href="https://github.com/Juancxh/All-contributors/commits?author=JimmyLoloy98" title="Documentation">📖</a></td>
   </tr>
 </table>
 
