@@ -9,6 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "TesterJuancxh",
+      "name": "TesterJuancxh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/70418277?v=4",
+      "profile": "https://github.com/TesterJuancxh",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
