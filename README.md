@@ -1,4 +1,4 @@
-Este es una guia posterior a la que tiene All Contributors en su documentación
+Este es una guia posterior a la que tiene [All Contributors](https://allcontributors.org/) en su documentación
 
 Para la automatización se tiene que tener claro que para agregar al contribuidor el owner o creador del repositorio mediante un comentario antes de hacer el pull request tiene que poner lo siguiente:
 
