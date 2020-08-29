@@ -1,0 +1,22 @@
+{
+  "name": "all-contributors",
+  "version": "1.0.0",
+  "description": "Guía para utilizar la automatización de All-contributors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juancxh/All-contributors.git"
+  },
+  "author": "Juancxh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juancxh/All-contributors/issues"
+  },
+  "homepage": "https://github.com/Juancxh/All-contributors#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.17.2"
+  }
+}
