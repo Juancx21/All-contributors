@@ -29,7 +29,7 @@ Y eso sería todo, luego automaticamente aparecerá nuestro contribuidor en el r
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Contributors ✨
 
-Gracias a estas maravillosas personas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a estas increíbles personas, que lo hacen posible ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
